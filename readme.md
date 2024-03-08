@@ -1,6 +1,4 @@
-> My portfolio website <3
-
-[![Deploy with Vercel](https://vercel.com/button)]
+> My portfolio website 
 
 ## Technology stack
 
