@@ -3,6 +3,13 @@ const items = [
     year: '2023',
     projects: [
       {
+        title: 'TechCare',
+        description: 'Health Care dashboard',
+        url: 'https://healthcare-dashboard-iota.vercel.app/',
+        active: true,
+        icon: 'techcare',
+      },
+      {
         title: 'Recrowdly',
         description: 'Lead converter for businesses',
         url: 'https://recrowdly.com',
